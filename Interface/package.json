@@ -1,0 +1,31 @@
+{
+  "name": "interfata",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.1",
+    "vite": "^5.1.6"
+  },
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "esbuild": "^0.21.5",
+    "express": "^5.2.1",
+    "nanoid": "^3.3.11",
+    "oracledb": "^6.10.0",
+    "picocolors": "^1.1.1",
+    "postcss": "^8.5.6",
+    "rollup": "^4.55.1",
+    "source-map-js": "^1.2.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
