@@ -2,7 +2,7 @@
 
 Acest proiect reprezintă o aplicație completă pentru gestionarea eficientă a operațiunilor dintr-o companie aeriană de tip low-cost. Proiectul a fost dezvoltat ca **proiect de facultate** în cadrul Universității din București, Facultatea de Matematică și Informatică, specializarea Calculatoare și Tehnologia Informației, pentru disciplina **Baze de Date**.
 
-## 📝 Descrierea Proiectului
+## Descrierea Proiectului
 Obiectivul principal al lucrării este organizarea și administrarea structurii de date specifice unei companii aeriene. Sistemul permite evidența detaliată a flotei de aeronave, rutelor de zbor, programărilor, personalului de zbor (piloți și însoțitori), precum și a clienților, rezervărilor efectuate și a serviciilor suplimentare achiziționate de aceștia.
 
 ### Componente Principale și Reguli de Modelare:
@@ -14,7 +14,7 @@ Obiectivul principal al lucrării este organizarea și administrarea structurii 
 
 ---
 
-## 🛠️ Tehnologii Utilizate
+## Tehnologii Utilizate
 
 ### Backend & Bază de Date:
 - **Oracle Database 19c:** Sistemul de gestiune a bazelor de date relaționale.
@@ -27,7 +27,7 @@ Obiectivul principal al lucrării este organizarea și administrarea structurii 
 
 ---
 
-## 🖥️ Interfața Grafică și Funcționalități
+## Interfața Grafică și Funcționalități
 Aplicația pune la dispoziție un dashboard interactiv prin intermediul căruia utilizatorul poate efectua:
 1. **Autentificare securizată:** Fereastră de login conectată direct la instanța locală a bazei de date Oracle.
 2. **Vizualizare și Sortare (Read):** Listarea tabelelor din sistem cu posibilitatea ordonării dinamice după coloane.
@@ -37,7 +37,7 @@ Aplicația pune la dispoziție un dashboard interactiv prin intermediul căruia 
 
 ---
 
-## 🚀 Ghid de Instalare și Inițializare
+## Ghid de Instalare și Inițializare
 
 Urmați pașii de mai jos pentru a configura și rula proiectul pe mediul local:
 
